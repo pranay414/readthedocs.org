@@ -1,0 +1,9 @@
+extends: substitution
+message: rtfd has been renamed to Read the Docs, Use '%s' instead of '%s'
+level: error
+ignorecase: false
+# swap map tokens in the form of bad:good
+swap:
+  rtd: Read the Docs
+  RtD: Read the Docs
+  RTD: Read the Docs
