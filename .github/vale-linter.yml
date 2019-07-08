@@ -11,8 +11,8 @@ Vale:
     Configuration: "_vale.ini"
 
     # Path to the folder of Vale docstyles to use/copy
-    # NOTE: If you update the styles path in _vale.ini remember to update this path to
-    Styles: "vale/styles/docs"
+    # NOTE: If you update the styles path in _vale.ini remember to update this path too
+    Styles: "vale/styles/"
 
   Success: 
     Header: "YAY you done it"
